@@ -1,6 +1,6 @@
 {
 	"name": "fcc-learn-npm-package-json",
-	"author": "hoang hien",
+	"author": "hoang hien <hoangthihien10098@gmail.com>",
 	"description": "A project that does something awesome",
 	"keywords": [ "descriptive", "related", "words" ],
 	"license": "MIT",
