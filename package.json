@@ -1,6 +1,6 @@
 {
 	"name": "fcc-learn-npm-package-json",
-	"author": "hoang hien <hoangthihien10098@gmail.com>",
+	"author": "hoang hien <hoangthihien10098@gmail.com> (https://github.com/hoanghien1998/LearnNode)",
 	"description": "A project that does something awesome",
 	"keywords": [ "descriptive", "related", "words" ],
 	"license": "MIT",
