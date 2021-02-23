@@ -1,6 +1,10 @@
 {
 	"name": "fcc-learn-npm-package-json",
-	"author": "Hien <hoanghien1998@gmail.com> (https://charmed-fireplace.glitch.me/)",
+	"author": {
+		"name" : "Barney Rubble",
+		"email" : "b@rubble.com",
+		"url" : "http://barnyrubble.tumblr.com/"
+	},
 	"description": "A project that does something awesome",
 	"keywords": [ "descriptive", "related", "words" ],
 	"license": "MIT",
